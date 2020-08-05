@@ -10795,10 +10795,9 @@ react-helmet@^5.2.0:
     prop-types "^15.5.4"
     react-side-effect "^1.1.0"
 
-react-input-autosize@^2.2.2:
+react-input-autosize@^2.2.2, "react-input-autosize@https://github.com/Labstep/react-input-autosize#1c2d80ece555c50b79c83b7146d89c4e1b9d0762":
   version "2.2.2"
-  resolved "https://registry.yarnpkg.com/react-input-autosize/-/react-input-autosize-2.2.2.tgz#fcaa7020568ec206bc04be36f4eb68e647c4d8c2"
-  integrity sha512-jQJgYCA3S0j+cuOwzuCd1OjmBmnZLdqQdiLKRYrsMMzbjUrVDS5RvJUDwJqA7sKuksDuzFtm6hZGKFu7Mjk5aw==
+  resolved "https://github.com/Labstep/react-input-autosize#1c2d80ece555c50b79c83b7146d89c4e1b9d0762"
   dependencies:
     prop-types "^15.5.8"
 

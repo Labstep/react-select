@@ -18,7 +18,7 @@
     "@emotion/css": "^10.0.9",
     "memoize-one": "^5.0.0",
     "prop-types": "^15.6.0",
-    "react-input-autosize": "^2.2.2",
+    "react-input-autosize": "https://github.com/Labstep/react-input-autosize#1c2d80ece555c50b79c83b7146d89c4e1b9d0762",
     "react-transition-group": "^4.3.0"
   },
   "devDependencies": {
